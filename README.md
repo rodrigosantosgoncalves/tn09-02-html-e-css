@@ -3,13 +3,17 @@ Repositório destinado ao módulo de HTML e CSS da TN09 - Full Stack
 
 ## Pré requesitos
 
-- Ter uma IDE instalada (sugestão: [VS Code]())
-- Ter um terminal git (sugestão: [GitBash]())
-- Ter uma conta no [GitHub]()
+- Ter uma IDE instalada (sugestão: [VS Code](https://code.visualstudio.com/download))
+- Ter um terminal git (sugestão: [GitBash](https://git-scm.com/downloads))
+- Ter uma conta no [GitHub](https://github.com/)
 
 ## Como Clonar
 
-Acesse o diretório onde o repositório deve
+Acesse o diretório onde o repositório deve ser clonado através do terminal. Exemplo:
+
+``` sh
+cd ../../c/xampp/htdocs
+```
 
 Basta digitar `git clone` e acessar o repositório, copiar o link para **Clonar** e colar nesse mesmo comando. Ou, simplesmente, digitar:
 
@@ -24,4 +28,4 @@ cd tn09-02-html-e-css
 $ code .
 ```
 
-Pronto! Agora você pode navegar no repositório acessando ``
+Pronto! Agora você pode navegar no repositório acessando `localhost/tn09-02-html-e-css/index.html`.
